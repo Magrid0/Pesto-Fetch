@@ -12,10 +12,11 @@ This C++ program retrieves and displays basic system information such as hostnam
 
 ## Example Output
 
-```user@hostname
+```
+user@hostname
 
-Distro: Ubuntu 20.04.1 LTS
-CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Distro: Arch Linux
+CPU: AMD Ryzen 5 5600G with Integrated Radeon Graphics
 ```
 
 ## Note
