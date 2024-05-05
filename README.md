@@ -13,7 +13,7 @@ This C++ program retrieves and displays basic system information such as hostnam
 ## Example Output
 
 ```
-user@hostname
+magrid@desktop
 
 Distro: Arch Linux
 CPU: AMD Ryzen 5 5600G with Integrated Radeon Graphics
